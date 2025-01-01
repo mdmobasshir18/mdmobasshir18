@@ -19,11 +19,11 @@ Hello, I'm Md Mobasshir Mushtaque, passionate about Java development with a stro
 
 - 👯 I’m looking to collaborate on *Software Engineering*
 
-- 👨‍💻 All of my projects are available at [Githib Repository](https://github.com/abid7867?tab=repositories)
+- 👨‍💻 All of my projects are available at [Githib Repository](https://github.com/mdmobasshir18?tab=repositories)
 
 - 💬 Ask me about *Java,Springboot,ReactJs*
 
-- 📫 How to reach me *abidhussain411522@gmail.com*
+- 📫 How to reach me *msmushtaque22@gmail.com*
 
 - 📄 Know about my experiences [Resume]([https://shorturl.at/fyLT9](https://drive.google.com/file/d/1yxOO9hDJAO2Rr1lhaqLYqsxBf8CLZtPb/view?usp=drive_link))
 <br>
