@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="tejaskoshti" />
-<h1 align="center">Hello world, I'm Abid Hussain👋</h1>
+<h1 align="center">Hello world, I'm Md Mobasshir Mushtaque👋</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
@@ -11,7 +11,7 @@
 
 👨🏻‍💻  About Me
 
-Hello, I'm Abid Hussain, passionate about Java development with a strong foundation in object-oriented programming, I excel in building robust and scalable applications. Meanwhile, my expertise extends to Full Stack Development. I approach each project with eagerness to learn, grow, and refine my skills
+Hello, I'm Md Mobasshir Mushtaque, passionate about Java development with a strong foundation in object-oriented programming, I excel in building robust and scalable applications. Meanwhile, my expertise extends to Full Stack Development. I approach each project with eagerness to learn, grow, and refine my skills
 
 <img align="right" width="390" height="260" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="tejaskoshti" /> 
 
