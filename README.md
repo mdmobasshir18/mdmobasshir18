@@ -31,7 +31,7 @@ Hello, I'm Md Mobasshir Mushtaque, passionate about Java development with a stro
 <p><h3 align="center">Connect with me:</h3></p>
 <p align="center">  
 <a href="[https://linkedin.com/in/https://www.linkedin.com/in/tejaskoshti/](https://www.linkedin.com/in/abid-hussain-b13184223/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="[https://www.linkedin.com/in/tejaskoshti/](https://www.linkedin.com/in/abid-hussain-b13184223/)" /></a>
-<a href="https://mail.google.com/mail/abidhussain411522@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abidhussain411522@gmail.com" /></a>
+<a href="https://mail.google.com/mail/msmushtaque22@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="msmushtaque22@gmail.com" /></a>
 <a href="https://instagram.com/abidhussain08" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://instagram.com/abidhussain08" /></a>
 <a href="https://www.hackerrank.com/abidhussain41151" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  /></a>
 
